@@ -1,0 +1,17 @@
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+builddrafts = false
+baseurl = "http://brocktopus.github.io/longbox"
+title = "From the Long Box"
+canonifyurls = true
+theme = "Lanyon"
+googleAnalytics = ""
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  description = ""
+  author = "Kevin Brock"
