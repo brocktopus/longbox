@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Captain Marvel on From the Long Box: Half-formed Reviews of Comic Books</title>
-    <link>https://brocktopus.github.io/longbox/tags/captain-marvel/</link>
-    <description>Recent content in Captain Marvel on From the Long Box: Half-formed Reviews of Comic Books</description>
+    <title>From the Long Box: Half-formed Reviews of Comic Books</title>
+    <link>https://brocktopus.github.io/longbox/tags/captain-marvel/index.xml</link>
+    <description>Recent content on From the Long Box: Half-formed Reviews of Comic Books</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 23 Oct 2016 23:31:27 -0400</lastBuildDate>
     <atom:link href="https://brocktopus.github.io/longbox/tags/captain-marvel/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -23,7 +22,7 @@
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://brocktopus.github.io/longbox/img/Shazam-018.jpg&#34; alt=&#34;Cover to Shazam 018, described above&#34; /&gt;
+        &lt;img src=&#34;static/img/Shazam-018.jpg&#34; alt=&#34;Cover to Shazam 018, described above&#34; /&gt;
     
     
     &lt;figcaption&gt;
